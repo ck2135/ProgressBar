@@ -21,8 +21,11 @@ Progress Bar is a simple web application that showcases a dynamic progress indic
 - JavaScript
 
 ## Screenshots Section :
+
+This is the beginning stage of the Progress Bar. Users can interact with the bar to initiate tasks and monitor their progress as it fills up dynamically.
 ![Screenshot 2024-01-30 214022](https://github.com/ck2135/ProgressBar/assets/59825064/d6de14f2-40a9-4f39-9ee6-44fc4442485f)
 
 
+The Progress Bar displays celebrations upon reaching 100% completion.
 ![Screenshot 2024-01-30 214130](https://github.com/ck2135/ProgressBar/assets/59825064/3f29aa64-0bab-45d9-b575-3ff26fd591e8)
 
