@@ -41,8 +41,7 @@ const ProgressBar = (enableColorChange) => {
       if (start === end) {
         percentageProgress.textContent = "Finished";
         button.style.backgroundColor = "transparent";
-        button.style.backgroundImage = "url('image1.gif')";
-        button.style.backgroundImage = "url('congrats.gif')";
+        button.style.backgroundImage = "url('celebrations1.gif')";
         button.style.backgroundSize = "500px";
       }
     } else {
