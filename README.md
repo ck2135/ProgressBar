@@ -19,3 +19,7 @@ Progress Bar is a simple web application that showcases a dynamic progress indic
 - HTML5
 - CSS3
 - JavaScript
+
+## Screenshots Section :
+
+![Screenshot 2024-01-30 214022](https://github.com/ck2135/ProgressBar/assets/59825064/d6de14f2-40a9-4f39-9ee6-44fc4442485f)
